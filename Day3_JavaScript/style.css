@@ -1,0 +1,109 @@
+h1
+{
+  color: rgb(124, 124, 124);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(161, 161, 161);
+  }
+
+  ul {
+    list-style: none;
+  }
+
+  ul li {
+    padding: 5px;
+    background: #f4f4f4;
+    margin: 5px 0;
+  }
+
+  header {
+    background-color: rgb(192, 204, 181);
+    padding: 1rem;
+    text-align: center;
+  }
+
+  .container {
+    margin: auto;
+    width: 500px;
+    overflow: auto;
+    padding: 3rem 2rem;
+  }
+
+  #my-form {
+    padding: 2rem;
+    background-color: rgb(192, 204, 181);
+
+  }
+
+  #my-form label {
+    display: block;
+  }
+
+  #my-form input[type='text'] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(221, 29, 29);
+  }
+
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    border: 0;
+    background: #333;
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+
+  .btn:hover {
+    background: #444;
+  }
+
+  .bg-dark {
+    background: #333;
+    color: #fff;
+  }
+
+
+  .studentname label{
+   
+  font-size: large;
+  }
+
+  .seatnumber{
+    font-size: large;
+  }
+
+  .studentname input{
+    width: 80%;
+    height: 35px;
+  }
+
+  .seatnumber input{
+    width: 700%;
+    height: 35px;
+  }
+
+  .seatnumber{
+    font-size: large;
+  }
+
+  .studentslist li{
+      background-color: rgb(165, 165, 165);
+  }
+
+  #seatno{
+    width: 80%;
+    border-radius: 0%;
+  }

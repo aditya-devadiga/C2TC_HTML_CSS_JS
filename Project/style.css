@@ -1,0 +1,32 @@
+.container{
+    text-align: center;
+    width: 100%;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.PlayArea{
+    
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    align-items: center;
+    font-size: 4rem;
+}
+p{
+    font-size: 2rem;
+}
+
+img{
+    width: 100px;
+   
+}

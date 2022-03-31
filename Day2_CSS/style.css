@@ -1,0 +1,51 @@
+.container{
+text-align: center;
+background-color: rgba(176, 179, 174, 0.596);
+padding: 5px;
+margin: 0px;
+}
+
+.container p{
+
+   font-size: 20px;
+
+}
+.box-1{
+    background-color: beige;
+    padding: 7%;
+    border:10px salmon solid;
+    border-left: 20px salmon solid;
+    border-right: 20px salmon solid;
+    border-top: 10px salmon solid;
+    border-bottom: 10px salmon solid;
+}
+
+.box-1 {
+    font-size: xx-large;
+}
+
+.button{
+    color: rgb(179, 54, 54);
+}
+
+.branches{
+    border:4px sienna solid;
+    padding: 10px;
+    border-radius:15px;
+}
+
+.block{
+    float: left ;
+    width: 32%;
+    border: 4px rosybrown  solid;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
